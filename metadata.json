@@ -1,0 +1,6 @@
+{
+  "name": "ProWrite",
+  "description": "A modern, offline-first Android document editor and word processor with rich formatting, templates, folders, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

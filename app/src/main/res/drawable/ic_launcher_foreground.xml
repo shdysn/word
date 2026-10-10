@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,22 L62,22 L74,34 L74,86 C74,88.2 72.2,90 70,90 L34,90 C31.8,90 30,88.2 30,86 L30,26 C30,23.8 31.8,22 34,22 Z" />
+    <!-- Page fold corner -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M62,22 L62,34 L74,34 Z" />
+    <!-- Text lines on page -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M38,44 L66,44 A2,2 0 0 1 66,48 L38,48 A2,2 0 0 1 38,44 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M38,54 L66,54 A2,2 0 0 1 66,58 L38,58 A2,2 0 0 1 38,54 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M38,64 L56,64 A2,2 0 0 1 56,68 L38,68 A2,2 0 0 1 38,64 Z" />
+    <!-- Modern stylish pen badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M68,66 L78,76 L64,90 L54,90 L54,80 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,76 L72,70 L76,66 L82,72 Z" />
+</vector>
